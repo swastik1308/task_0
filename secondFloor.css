@@ -1,0 +1,169 @@
+/*This code has been tested on Google Chrome(Version 81.0.4044.129 (Official Build) (64-bit))in maximized mode with a screen resolution of 1366 x 768px */
+body{
+  background-image: url('Second_Floor.jpg');
+  background-size: 100% 100%;
+  background-attachment:fixed;
+  margin: 0px;
+}
+a{color: white;
+text-decoration: none;}
+a:hover{color: black;}
+.r1{
+  position: relative;
+  width: 450px;
+  height: 340px;
+  left: 285px;
+}
+.a11 {
+  position: absolute;
+  width: 3.7cm;
+  height: 2.2cm;
+  border: 5px solid #000004;
+  background-color: #FF7F26;
+  text-align: center;
+}
+.a12 {
+  position: absolute;
+  top: 2.3cm;
+  width: 3.7cm;
+  height: 2.7cm;
+  border: 5px solid #000004;
+  background-color: #FF7F26;
+  text-align: center;
+}
+.a13 {
+  position: absolute;
+  top: 5.1cm;
+  width: 3.7cm;
+  height: 2.2cm;
+  border: 5px solid #000004;
+  background-color: #FF7F26;
+  text-align: center;
+}
+.a14 {
+  position: absolute;
+  right: 0;
+  width: 4.0cm;
+  height: 2.4cm;
+  border: 5px solid #000004;
+  background-color: #FF7F26;
+  text-align: center;
+  }
+.a15 {
+  position: absolute;
+  right: 0;
+  top: 2.6cm;
+  width: 4cm;
+  height: 2.2cm;
+  border: 5px solid #000004;
+  background-color: #FF7F26;
+  text-align: center;
+}
+.a16 {
+  position: absolute;
+  top: 7.5cm;
+  width: 3.8cm;
+  height: 1.4cm;
+  border: 5px solid #000004;
+  background-color: #EE1B24;
+  text-align: center;
+  font-size: 8.5px;
+  }
+.a17 {
+  position: absolute;
+  right: 0;
+  top:5cm;
+  width: 4cm;
+  height: 3.9cm;
+  border: 5px solid #000004;
+  background-color: #FF7F26;
+  text-align: center;
+}
+.r2{
+  position: relative;
+  width: 23cm;
+  height: 8.2cm;
+  left: 285px;
+  bottom: 0px;
+  }
+.a21 {
+  position: absolute;
+  bottom:1.7cm;
+  width: 3.7cm;
+  height: 4cm;
+  border: 5px solid #000004;
+  background-color: #00A3E8;
+  text-align: center;
+}
+.a22 {
+  position: absolute;
+  bottom: 4cm;
+  left: 7.7cm;
+  width: 240px;
+  height: 3.8cm;
+  border: 5px solid #000004;
+  background-color: #B5E51D;
+  text-align: center;
+}
+.a23{
+  position: absolute;
+  top: 0.2cm;
+  right: 0;
+  width: 4.3cm;
+  height: 3.8cm;
+  border: 5px solid #000004;
+  background-color: #00A3E8;
+  text-align: center;
+}
+.a24 {
+  position: absolute;
+  top: 0.2cm;
+  right: 4.4cm;
+  width: 4.1cm;
+  height: 3.8cm;
+  border: 5px solid #000004;
+  background-color: #00A3E8;
+  text-align: center;
+}
+.a25 {
+  position: absolute;
+  bottom:0cm;
+  right: 0;
+  width: 5.9cm;
+  height: 2.4cm;
+  border: 5px solid #000004;
+  background-color: #00A3E8;
+  text-align: center;
+}
+.a26 {
+  position: absolute;
+  bottom:0cm;
+  right: 6.0cm;
+  width: 4.4cm;
+  height: 2.4cm;
+  border: 5px solid #000004;
+  background-color: #00A3E8;
+  text-align: center;
+}
+.a27 {
+  position: absolute;
+  bottom:0cm;
+  right: 10.56cm;
+  width: 2.25cm;
+  height: 2.4cm;
+  border: 5px solid #000004;
+  background-color: #EE1B24;
+  text-align: center;
+}
+.a28 {
+  position: absolute;
+  bottom:5.8cm;
+  width: 3.8cm;
+  height: 2.1cm;
+  border: 5px solid #000004;
+  background-color: #880016;
+  text-align: center;
+}
+button{
+  background-color: red;
+  }
